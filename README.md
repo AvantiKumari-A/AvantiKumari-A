@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avantikumari-a&show_icons=true&locale=en&layout=compact" alt="avantikumari-a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avantikumari-a&show_icons=true&locale=en" alt="avantikumari-a" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avantikumari-a&" alt="avantikumari-a"/></p>
+
