@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/Pro%20Developers%20Colorful%20Dark%20Gray%20%26%20Orange%20LinkedIn%20Banner.png)](https://github.com/AvantiKumari-A)
 <h1 align="center">Hi 👋, I'm Avanti Kumari A</h1>
-<h3 align="center">Ambitious Full Stack Developer</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/anime%201.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avantikumari-a&label=Profile%20views&color=0e75b6&style=flat" alt="avantikumari-a" /> </p>
 
