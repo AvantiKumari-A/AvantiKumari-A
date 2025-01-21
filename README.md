@@ -28,9 +28,6 @@
   <a href="https://github.com/AvantiKumari-A" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AvantiKumari-A" height="30" width="40" />
   </a>
-  <a href="mailto:avantikumari1405@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="avantikumari1405@gmail.com" height="30" width="40" />
-  </a>
   <a href="https://twitter.com/ihsinva" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihsinva" height="30" width="40" />
   </a>
