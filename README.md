@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/Pro%20Developers%20Colorful%20Dark%20Gray%20%26%20Orange%20LinkedIn%20Banner.png)](https://github.com/AvantiKumari-A)
+[![MasterHead](https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/Github%20Banner.png)](https://github.com/AvantiKumari-A)
 <h1 align="center">Hi 👋, I'm Avanti Kumari A</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/AvantiKumari-A/AvantiKumari-A/blob/main/anime%201.gif">
