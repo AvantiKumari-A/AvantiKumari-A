@@ -65,7 +65,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avantikumari-a&show_icons=true&locale=en" alt="avantikumari-a" /></p>
 
-<h3 align="left">Streak Stats:</h3>
+<h3 align="left">GitHub Streak Stats:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AvantiKumari-A&theme=highcontrast" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AvantiKumari-A" alt="GitHub Streak" />
+  </a>
 </p>
