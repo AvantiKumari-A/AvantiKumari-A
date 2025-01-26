@@ -68,6 +68,6 @@
 <h3 align="left">GitHub Streak Stats:</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AvantiKumari-A" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AvantiKumari-A&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
