@@ -64,10 +64,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvantiKumari-A&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&langs_count=8" alt="AvantiKumari-A" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avantikumari-a&show_icons=true&locale=en" alt="avantikumari-a" /></p>
-
-<h3 align="left">GitHub Streak Stats:</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AvantiKumari-A&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AvantiKumari-A" alt="AvantiKumari-A" /></p>.
